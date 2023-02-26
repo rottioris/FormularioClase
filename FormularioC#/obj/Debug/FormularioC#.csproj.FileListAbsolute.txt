@@ -1,0 +1,11 @@
+C:\Users\Cristian\source\repos\FormularioC#\bin\Debug\FormularioC#.exe.config
+C:\Users\Cristian\source\repos\FormularioC#\bin\Debug\FormularioC#.exe
+C:\Users\Cristian\source\repos\FormularioC#\bin\Debug\FormularioC#.pdb
+C:\Users\Cristian\source\repos\FormularioC#\obj\Debug\FormularioC#.csproj.AssemblyReference.cache
+C:\Users\Cristian\source\repos\FormularioC#\obj\Debug\FormularioC#.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cristian\source\repos\FormularioC#\obj\Debug\FormularioC_.Formulario.resources
+C:\Users\Cristian\source\repos\FormularioC#\obj\Debug\FormularioC_.Properties.Resources.resources
+C:\Users\Cristian\source\repos\FormularioC#\obj\Debug\FormularioC#.csproj.GenerateResource.cache
+C:\Users\Cristian\source\repos\FormularioC#\obj\Debug\FormularioC#.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\source\repos\FormularioC#\obj\Debug\FormularioC#.exe
+C:\Users\Cristian\source\repos\FormularioC#\obj\Debug\FormularioC#.pdb
